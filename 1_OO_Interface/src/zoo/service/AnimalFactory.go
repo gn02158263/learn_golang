@@ -1,5 +1,0 @@
-package service
-
-func AnimalFactory() {
-
-}
